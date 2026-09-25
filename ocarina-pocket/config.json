@@ -7,8 +7,12 @@
   "announcement": {
     "enabled": false,
     "id": "",
-    "title": {"en": ""},
-    "body": {"en": ""},
+    "title": {
+      "en": ""
+    },
+    "body": {
+      "en": ""
+    },
     "url": ""
   },
   "features": {
@@ -24,14 +28,20 @@
   "ads": {
     "enabled": false
   },
-  "featuredSongIds": ["ode_to_joy", "greensleeves", "amazing_grace", "scarborough_fair", "silent_night"],
+  "featuredSongIds": [
+    "ode_to_joy",
+    "greensleeves",
+    "amazing_grace",
+    "scarborough_fair",
+    "silent_night"
+  ],
   "remoteSongs": [],
   "audio": {
     "defaultReverb": 0.25
   },
   "links": {
-    "privacyPolicy": "https://ouadiezerhouni.github.io/app-configs/ocarina-pocket/privacy.html",
-    "support": "https://ouadiezerhouni.github.io/app-configs/ocarina-pocket/support.html",
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/ocarina-pocket/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/ocarina-pocket/SUPPORT.md",
     "supportEmail": ""
   }
 }

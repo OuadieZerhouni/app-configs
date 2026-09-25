@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "updateUrlAndroid": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": {"en": ""},
+    "body": {"en": ""},
+    "url": ""
+  },
+  "features": {
+    "blowMode": true,
+    "tuner": true,
+    "customTabs": true
+  },
+  "reviewPrompt": {
+    "enabled": true,
+    "minSessions": 4,
+    "minSongsCompleted": 2
+  },
+  "ads": {
+    "enabled": false
+  },
+  "featuredSongIds": ["ode_to_joy", "greensleeves", "amazing_grace", "scarborough_fair", "silent_night"],
+  "remoteSongs": [],
+  "audio": {
+    "defaultReverb": 0.25
+  },
+  "links": {
+    "privacyPolicy": "https://ouadiezerhouni.github.io/app-configs/ocarina-pocket/privacy.html",
+    "support": "https://ouadiezerhouni.github.io/app-configs/ocarina-pocket/support.html",
+    "supportEmail": ""
+  }
+}

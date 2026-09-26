@@ -1,3 +1,8 @@
+---
+title: "Ocarina Pocket — Privacy Policy"
+permalink: /ocarina-pocket/privacy/
+---
+
 # Ocarina Pocket — Privacy Policy
 
 _Last updated: 25 September 2026_

@@ -1,0 +1,4 @@
+# GitHub Pages: renders the privacy/support pages at https://ouadiezerho.me/app-configs/
+title: OuadieZerhouni apps
+theme: jekyll-theme-primer
+exclude: [README.md]

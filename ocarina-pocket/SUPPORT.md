@@ -1,3 +1,8 @@
+---
+title: "Ocarina Pocket — Help & feedback"
+permalink: /ocarina-pocket/support/
+---
+
 # Ocarina Pocket — Help & feedback
 
 **How do I make a sound?**

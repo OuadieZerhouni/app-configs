@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "updateUrlAndroid": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": {
+      "en": ""
+    },
+    "body": {
+      "en": ""
+    },
+    "url": ""
+  },
+  "features": {
+    "practice": true
+  },
+  "hint": {
+    "enabled": true,
+    "afterGuesses": 6
+  },
+  "reviewPrompt": {
+    "enabled": true,
+    "minWins": 3
+  },
+  "ads": {
+    "enabled": false
+  },
+  "dailyOverrides": {},
+  "share": {
+    "link": ""
+  },
+  "links": {
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/hot-cold-globe/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/hot-cold-globe/SUPPORT.md",
+    "supportEmail": ""
+  }
+}

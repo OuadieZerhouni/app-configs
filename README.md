@@ -10,6 +10,7 @@ broken file only means "use the defaults".
 | App | Config | Pages |
 | --- | --- | --- |
 | Ocarina Pocket | [`ocarina-pocket/config.json`](ocarina-pocket/config.json) | [privacy](https://ouadiezerho.me/app-configs/ocarina-pocket/privacy/) · [support](https://ouadiezerho.me/app-configs/ocarina-pocket/support/) |
+| Raft Battle | [`raft-battle/config.json`](raft-battle/config.json) | [privacy](https://ouadiezerho.me/app-configs/raft-battle/privacy/) · [support](https://ouadiezerho.me/app-configs/raft-battle/support/) |
 
 Raw URL used by the app:
 `https://raw.githubusercontent.com/OuadieZerhouni/app-configs/main/ocarina-pocket/config.json`

@@ -1,0 +1,27 @@
+{
+  "_comment": "Live remote config for Raft Battle (iOS). Fetched anonymously by the game and overlaid on its committed defaults (assets/config/app_config.json in the app repo); any missing key falls back to those defaults. Validate JSON before pushing.",
+  "schema": 1,
+  "min_version": "1.0.0",
+  "announcement": {
+    "id": "",
+    "text": "",
+    "url": ""
+  },
+  "gameplay": {
+    "ai_error_scale": 1.0,
+    "wind_scale": 1.0,
+    "gravity": 980.0,
+    "coin_multiplier": 1.0,
+    "quick_battle_coin_multiplier": 0.5
+  },
+  "features": {
+    "two_player": true,
+    "quick_battle": true,
+    "ads_enabled": false,
+    "iap_enabled": false
+  },
+  "rate_prompt": {
+    "enabled": true,
+    "after_level": 6
+  }
+}

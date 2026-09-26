@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "updateUrlAndroid": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": {
+      "en": ""
+    },
+    "body": {
+      "en": ""
+    },
+    "url": ""
+  },
+  "features": {
+    "hints": true
+  },
+  "progression": {
+    "worldUnlockCount": 8
+  },
+  "reviewPrompt": {
+    "enabled": true,
+    "minLevelsCompleted": 10
+  },
+  "ads": {
+    "enabled": false
+  },
+  "bonus": {
+    "enabled": false,
+    "title": {
+      "en": "Bonus"
+    },
+    "levels": []
+  },
+  "links": {
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/tumbloc/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/tumbloc/SUPPORT.md",
+    "supportEmail": ""
+  }
+}

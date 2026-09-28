@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "minSupportedVersion": "1.0.0",
   "latestVersion": "1.0.0",
-  "updateUrlIos": "",
+  "updateUrlIos": "https://apps.apple.com/app/id6817054499",
   "updateUrlAndroid": "",
   "announcement": {
     "enabled": false,
@@ -31,11 +31,11 @@
   },
   "dailyOverrides": {},
   "share": {
-    "link": ""
+    "link": "https://apps.apple.com/app/id6817054499"
   },
   "links": {
     "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/hot-cold-globe/PRIVACY.md",
     "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/hot-cold-globe/SUPPORT.md",
-    "supportEmail": ""
+    "supportEmail": "Ouadie2Zerhouni@gmail.com"
   }
 }

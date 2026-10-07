@@ -14,6 +14,7 @@ broken file only means "use the defaults".
 | Raft Battle | [`raft-battle/config.json`](raft-battle/config.json) | [privacy](https://ouadiezerho.me/app-configs/raft-battle/privacy/) · [support](https://ouadiezerho.me/app-configs/raft-battle/support/) |
 | Mofu | [`mofu-pet/config.json`](mofu-pet/config.json) | [privacy](mofu-pet/PRIVACY.md) · [support](mofu-pet/SUPPORT.md) |
 | Boop! | [`boop/config.json`](boop/config.json) | [privacy](boop/PRIVACY.md) · [support](boop/SUPPORT.md) |
+| Wuff | [`wuff-pet/config.json`](wuff-pet/config.json) | [privacy](wuff-pet/PRIVACY.md) · [support](wuff-pet/SUPPORT.md) |
 
 Raw URL used by the app:
 `https://raw.githubusercontent.com/OuadieZerhouni/app-configs/main/ocarina-pocket/config.json`

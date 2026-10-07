@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": { "en": "" },
+    "body": { "en": "" },
+    "url": ""
+  },
+  "features": {
+    "miniGame": true,
+    "dailyGift": true,
+    "seasonalItems": true
+  },
+  "economy": {
+    "drainMultiplier": 1.0,
+    "restMultiplier": 1.0,
+    "dailyGiftBase": 5,
+    "priceMultiplier": 1.0
+  },
+  "seasonal": {
+    "halloween": { "enabled": true, "from": "10-01", "to": "11-07" },
+    "winter": { "enabled": true, "from": "12-01", "to": "01-10" }
+  },
+  "reviewPrompt": {
+    "enabled": true,
+    "minDays": 3,
+    "minLevel": 3
+  },
+  "ads": { "enabled": false },
+  "links": {
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/oink-pet/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/oink-pet/SUPPORT.md",
+    "supportEmail": ""
+  }
+}

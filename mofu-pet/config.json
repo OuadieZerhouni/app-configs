@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": {
+      "en": ""
+    },
+    "body": {
+      "en": ""
+    },
+    "url": ""
+  },
+  "features": {
+    "shake": true,
+    "toss": true,
+    "sounds": true
+  },
+  "seasons": [
+    {
+      "id": "halloween",
+      "start": "10-20",
+      "end": "11-02"
+    },
+    {
+      "id": "winter",
+      "start": "12-15",
+      "end": "01-06"
+    }
+  ],
+  "reviewPrompt": {
+    "enabled": false
+  },
+  "ads": {
+    "enabled": false
+  },
+  "iap": {
+    "enabled": false
+  },
+  "links": {
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/mofu-pet/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/mofu-pet/SUPPORT.md",
+    "appStore": ""
+  }
+}

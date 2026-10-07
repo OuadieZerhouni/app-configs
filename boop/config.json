@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": { "en": "" },
+    "body": { "en": "" },
+    "url": ""
+  },
+  "features": {
+    "rushEnabled": true
+  },
+  "dailyGoal": 50,
+  "rush": {
+    "durationSec": 30
+  },
+  "reviewPrompt": {
+    "enabled": true,
+    "afterUnlocks": 3
+  },
+  "ads": {
+    "enabled": false
+  },
+  "links": {
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/boop/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/boop/SUPPORT.md"
+  }
+}

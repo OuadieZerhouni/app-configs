@@ -22,8 +22,8 @@
   },
   "reviewPrompt": {
     "enabled": true,
-    "minSessions": 4,
-    "minSongsCompleted": 2
+    "minSessions": 2,
+    "minSongsCompleted": 1
   },
   "ads": {
     "enabled": false

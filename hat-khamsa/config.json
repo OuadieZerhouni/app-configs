@@ -25,7 +25,7 @@
     "enabled": false
   },
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "minIntervalSec": 180,
     "firstGameFree": true,
     "interstitialIos": "",

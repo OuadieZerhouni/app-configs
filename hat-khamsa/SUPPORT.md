@@ -12,10 +12,10 @@ Split into teams and pick a judge. The judge taps "Start turn", reads the card o
 Two teams bid how many answers they can name for the same card ("Raise"). When nobody raises any more, the judge taps "Sold!". If the bidding team names that many in time, it scores the bid; if not, the other team scores it. First to the goal wins.
 
 **Do I need internet?**
-No. Every deck is on your phone. Internet is only used for ads in the free version and for an optional settings file.
+No. Every deck is on your phone. Internet is only used for an optional settings file. The current version shows no ads.
 
 **How do I unlock more decks?**
-Five decks are free. "Brainiacs" unlocks for 24 hours by watching one ad. Pro (a one-time purchase) unlocks every deck and removes ads. Already bought Pro? Use Settings → Restore purchases.
+Five decks are free. Pro (a one-time purchase) unlocks the other five, Brainiacs included. Already bought Pro? Use Settings → Restore purchases.
 
 **An answer was right but isn't on the list.**
 The judge decides: tap "+1 correct". Most cards list examples, not every possible answer.

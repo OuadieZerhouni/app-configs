@@ -7,6 +7,8 @@ permalink: /hat-khamsa/privacy/
 
 _Last updated: 10 November 2026_
 
+**Right now ads are switched off:** the current version shows no ads, so nothing in the "Ads" section below happens. It describes what would apply if ads are switched on in a later version; this page will say so first.
+
 **In short:** Hat Khamsa has no accounts and no analytics of its own, and the game works fully offline. The free version shows ads served by Google AdMob, and Google may collect some device data to show and measure them. Buying "Pro" removes all ads.
 
 ## Data stored on your device

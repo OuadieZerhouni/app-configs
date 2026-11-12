@@ -35,7 +35,2038 @@
     "scarborough_fair",
     "silent_night"
   ],
-  "remoteSongs": [],
+  "remoteSongs": [
+    {
+      "id": "the_first_noel",
+      "title": "The First Noel",
+      "composer": "Traditional (Cornish)",
+      "origin": "England, 18th century; published by Davies Gilbert (1823)",
+      "license": "public domain",
+      "source": "https://www.flutetunes.com/tunes.php?id=282",
+      "source_type": "flutetunes.com MIDI",
+      "cross_checks": [
+        {
+          "source": "https://abcnotation.com/tunePage?a=sniff.numachi.com/~rickheit/dtrad/abc_dtrad.tar.gz/abc_dtrad/FRSTNOEL/0000",
+          "type": "ABC",
+          "contour_match": 0.99
+        }
+      ],
+      "category": "holiday",
+      "difficulty": 2,
+      "tempo_bpm": 100,
+      "time_signature": [
+        3,
+        4
+      ],
+      "pickup": 1,
+      "key": "C major",
+      "transposed_semitones": -2,
+      "fits": [
+        "pendant_6",
+        "alto_c_12"
+      ],
+      "notes": [
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 74,
+          "d": 0.5
+        },
+        {
+          "m": 72,
+          "d": 1.5
+        },
+        {
+          "m": 74,
+          "d": 0.5
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 83,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 83,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 2
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 74,
+          "d": 0.5
+        },
+        {
+          "m": 72,
+          "d": 1.5
+        },
+        {
+          "m": 74,
+          "d": 0.5
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 83,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 83,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 2
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 74,
+          "d": 0.5
+        },
+        {
+          "m": 72,
+          "d": 1.5
+        },
+        {
+          "m": 74,
+          "d": 0.5
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 0.5
+        },
+        {
+          "m": 83,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 3
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 83,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 2
+        }
+      ]
+    },
+    {
+      "id": "hark_the_herald_angels_sing",
+      "title": "Hark! The Herald Angels Sing",
+      "composer": "Felix Mendelssohn",
+      "origin": "Germany, 1840; adapted by W. H. Cummings (1855), words by Charles Wesley",
+      "license": "public domain",
+      "source": "https://www.flutetunes.com/tunes.php?id=288",
+      "source_type": "flutetunes.com MIDI",
+      "cross_checks": [
+        {
+          "source": "https://abcnotation.com/tunePage?a=pghardy.net/tunebooks/pgh_xmas_tunebook/0022",
+          "type": "ABC",
+          "contour_match": 0.98
+        },
+        {
+          "source": "https://abcnotation.com/tunePage?a=sniff.numachi.com/~rickheit/dtrad/abc_dtrad.tar.gz/abc_dtrad/HRALDANG/0000",
+          "type": "ABC",
+          "contour_match": 0.98
+        }
+      ],
+      "category": "holiday",
+      "difficulty": 2,
+      "tempo_bpm": 100,
+      "time_signature": [
+        4,
+        4
+      ],
+      "pickup": 2,
+      "key": "F major",
+      "transposed_semitones": 0,
+      "fits": [
+        "pendant_6",
+        "alto_c_12"
+      ],
+      "notes": [
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1.5
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1.5
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1.5
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 2
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 1.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 86,
+          "d": 1.5
+        },
+        {
+          "m": 86,
+          "d": 0.5
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 2
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 1.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 2
+        }
+      ]
+    },
+    {
+      "id": "god_rest_you_merry_gentlemen",
+      "title": "God Rest You Merry, Gentlemen",
+      "composer": "Traditional (English)",
+      "origin": "England, 18th century",
+      "license": "public domain",
+      "source": "https://www.flutetunes.com/tunes.php?id=292",
+      "source_type": "flutetunes.com MIDI",
+      "cross_checks": [
+        {
+          "source": "https://abcnotation.com/tunePage?a=pghardy.net/tunebooks/pgh_xmas_tunebook/0019",
+          "type": "ABC",
+          "contour_match": 1.0
+        }
+      ],
+      "category": "holiday",
+      "difficulty": 2,
+      "tempo_bpm": 110,
+      "time_signature": [
+        2,
+        2
+      ],
+      "pickup": 0,
+      "key": "D minor",
+      "transposed_semitones": 10,
+      "fits": [
+        "pendant_6",
+        "alto_c_12"
+      ],
+      "notes": [
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 3
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 3
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 3
+        }
+      ]
+    },
+    {
+      "id": "good_king_wenceslas",
+      "title": "Good King Wenceslas",
+      "composer": "Traditional (\"Tempus adest floridum\")",
+      "origin": "Piae Cantiones, Finland 1582; words by J. M. Neale (1853)",
+      "license": "public domain",
+      "source": "https://www.flutetunes.com/tunes.php?id=248",
+      "source_type": "flutetunes.com MIDI",
+      "cross_checks": [
+        {
+          "source": "https://abcnotation.com/tunePage?a=pghardy.net/tunebooks/pgh_xmas_tunebook/0020",
+          "type": "ABC",
+          "contour_match": 1.0
+        },
+        {
+          "source": "https://abcnotation.com/tunePage?a=colinhume.com/ABC.txt/0541",
+          "type": "ABC",
+          "contour_match": 1.0
+        },
+        {
+          "source": "https://abcnotation.com/tunePage?a=sniff.numachi.com/~rickheit/dtrad/abc_dtrad.tar.gz/abc_dtrad/GOODKING/0000",
+          "type": "ABC",
+          "contour_match": 1.0
+        }
+      ],
+      "category": "holiday",
+      "difficulty": 2,
+      "tempo_bpm": 100,
+      "time_signature": [
+        4,
+        4
+      ],
+      "pickup": 0,
+      "key": "F major",
+      "transposed_semitones": -2,
+      "fits": [
+        "pendant_6",
+        "alto_c_12"
+      ],
+      "notes": [
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 2
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 2
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 82,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 4
+        }
+      ]
+    },
+    {
+      "id": "angels_we_have_heard_on_high",
+      "title": "Angels We Have Heard on High",
+      "titles": {
+        "fr": "Les anges dans nos campagnes",
+        "es": "Ángeles cantando están",
+        "de": "Engel haben Himmelslieder"
+      },
+      "composer": "Traditional (French, \"Les anges dans nos campagnes\")",
+      "origin": "France, 18th century; English words by James Chadwick (1862)",
+      "license": "public domain",
+      "source": "https://www.flutetunes.com/tunes.php?id=272",
+      "source_type": "flutetunes.com MIDI",
+      "cross_checks": [
+        {
+          "source": "https://abcnotation.com/tunePage?a=sniff.numachi.com/~rickheit/dtrad/abc_dtrad.tar.gz/abc_dtrad/ANGONHI/0000",
+          "type": "ABC",
+          "contour_match": 1.0
+        }
+      ],
+      "category": "holiday",
+      "difficulty": 3,
+      "tempo_bpm": 100,
+      "time_signature": [
+        4,
+        4
+      ],
+      "pickup": 0,
+      "key": "F major",
+      "transposed_semitones": 0,
+      "fits": [
+        "pendant_6",
+        "alto_c_12"
+      ],
+      "notes": [
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 2
+        },
+        {
+          "m": 86,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 1.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 72,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 2
+        },
+        {
+          "m": 86,
+          "d": 0.5
+        },
+        {
+          "m": 84,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 0.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 1.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 72,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 79,
+          "d": 2
+        },
+        {
+          "m": 77,
+          "d": 4
+        }
+      ]
+    },
+    {
+      "id": "away_in_a_manger",
+      "title": "Away in a Manger",
+      "titles": {
+        "es": "Allá en el pesebre"
+      },
+      "composer": "James R. Murray (\"Mueller\")",
+      "origin": "USA, 1887",
+      "license": "public domain",
+      "source": "https://www.flutetunes.com/tunes.php?id=278",
+      "source_type": "flutetunes.com MIDI",
+      "cross_checks": [
+        {
+          "source": "https://abcnotation.com/tunePage?a=sniff.numachi.com/~rickheit/dtrad/abc_dtrad.tar.gz/abc_dtrad/AWAYMNGR/0000",
+          "type": "ABC",
+          "contour_match": 1.0
+        }
+      ],
+      "category": "holiday",
+      "difficulty": 1,
+      "tempo_bpm": 90,
+      "time_signature": [
+        3,
+        4
+      ],
+      "pickup": 1,
+      "key": "F major",
+      "transposed_semitones": 0,
+      "fits": [
+        "pendant_6",
+        "alto_c_12"
+      ],
+      "notes": [
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 2
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1.5
+        },
+        {
+          "m": 74,
+          "d": 0.5
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 2
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1.5
+        },
+        {
+          "m": 82,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 2
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1.5
+        },
+        {
+          "m": 81,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 2
+        }
+      ]
+    },
+    {
+      "id": "o_little_town_of_bethlehem",
+      "title": "O Little Town of Bethlehem",
+      "titles": {
+        "es": "Oh, pueblecito de Belén"
+      },
+      "composer": "Lewis H. Redner (\"St. Louis\")",
+      "origin": "USA, 1868; words by Phillips Brooks",
+      "license": "public domain",
+      "source": "https://www.flutetunes.com/tunes.php?id=296",
+      "source_type": "flutetunes.com MIDI",
+      "cross_checks": [
+        {
+          "source": "https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/www.stephenmerrony.co.uk/St_Louis/0000",
+          "type": "ABC",
+          "contour_match": 1.0
+        }
+      ],
+      "category": "holiday",
+      "difficulty": 2,
+      "tempo_bpm": 90,
+      "time_signature": [
+        4,
+        4
+      ],
+      "pickup": 1,
+      "key": "F major",
+      "transposed_semitones": 10,
+      "fits": [
+        "pendant_6",
+        "alto_c_12"
+      ],
+      "notes": [
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 80,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 72,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 3
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 0.5
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 3
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 2
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 76,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 79,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 3
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 80,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 82,
+          "d": 1
+        },
+        {
+          "m": 74,
+          "d": 1
+        },
+        {
+          "m": 86,
+          "d": 1
+        },
+        {
+          "m": 84,
+          "d": 1
+        },
+        {
+          "m": 77,
+          "d": 1
+        },
+        {
+          "m": 81,
+          "d": 1.5
+        },
+        {
+          "m": 79,
+          "d": 0.5
+        },
+        {
+          "m": 77,
+          "d": 3
+        }
+      ]
+    }
+  ],
   "audio": {
     "defaultReverb": 0.25
   },

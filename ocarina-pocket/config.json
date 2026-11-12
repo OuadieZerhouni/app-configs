@@ -29,11 +29,13 @@
     "enabled": false
   },
   "featuredSongIds": [
-    "ode_to_joy",
-    "greensleeves",
-    "amazing_grace",
-    "scarborough_fair",
-    "silent_night"
+    "jingle_bells",
+    "silent_night",
+    "hark_the_herald_angels_sing",
+    "the_first_noel",
+    "away_in_a_manger",
+    "o_come_all_ye_faithful",
+    "ode_to_joy"
   ],
   "remoteSongs": [
     {

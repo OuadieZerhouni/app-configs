@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": {
+      "ar": "",
+      "en": ""
+    },
+    "body": {
+      "ar": "",
+      "en": ""
+    },
+    "url": ""
+  },
+  "features": {
+    "reminders": true,
+    "sharing": true
+  },
+  "content": {
+    "indexUrl": "",
+    "freeStoryIds": [
+      "adam",
+      "idris",
+      "nuh"
+    ],
+    "hiddenStories": []
+  },
+  "reviewPrompt": {
+    "enabled": false
+  },
+  "ads": {
+    "enabled": false
+  },
+  "iap": {
+    "enabled": true,
+    "proProductId": "qindeel_pro"
+  },
+  "links": {
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/qindeel/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/qindeel/SUPPORT.md",
+    "reportMistake": "https://github.com/OuadieZerhouni/app-configs/blob/main/qindeel/SUPPORT.md",
+    "appStore": ""
+  }
+}

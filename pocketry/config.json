@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "minSupportedVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "updateUrlIos": "",
+  "announcement": {
+    "enabled": false,
+    "id": "",
+    "title": {
+      "en": ""
+    },
+    "body": {
+      "en": ""
+    },
+    "url": ""
+  },
+  "features": {
+    "bundledGames": true,
+    "cheats": true
+  },
+  "reviewPrompt": {
+    "enabled": false
+  },
+  "ads": {
+    "enabled": false
+  },
+  "iap": {
+    "enabled": true,
+    "proProductId": "pocketry_pro"
+  },
+  "links": {
+    "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/pocketry/PRIVACY.md",
+    "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/pocketry/SUPPORT.md",
+    "appStore": ""
+  }
+}

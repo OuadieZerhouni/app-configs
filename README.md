@@ -16,6 +16,7 @@ broken file only means "use the defaults".
 | Boop! | [`boop/config.json`](boop/config.json) | [privacy](boop/PRIVACY.md) · [support](boop/SUPPORT.md) |
 | Wuff | [`wuff-pet/config.json`](wuff-pet/config.json) | [privacy](wuff-pet/PRIVACY.md) · [support](wuff-pet/SUPPORT.md) |
 | Hat Khamsa (هات خمسة) | [`hat-khamsa/config.json`](hat-khamsa/config.json) | [privacy](hat-khamsa/PRIVACY.md) · [support](hat-khamsa/SUPPORT.md) |
+| Pocketry | [`pocketry/config.json`](pocketry/config.json) | [privacy](pocketry/PRIVACY.md) · [support](pocketry/SUPPORT.md) |
 
 Raw URL used by the app:
 `https://raw.githubusercontent.com/OuadieZerhouni/app-configs/main/ocarina-pocket/config.json`

@@ -17,6 +17,9 @@ The verses are shown on screen exactly as written. They are never read by a synt
 **Why are the prophets not shown in the pictures?**
 On purpose. The pictures show places, skies and objects only.
 
+**How are the narration, pictures and sounds made?**
+The narration is a computer-generated voice reading a written, fully vocalised script; each recording is transcribed back and checked against the script. The pictures are generated illustrations, each one reviewed before it is included. The quiet background sounds (night, wind, rain, a garden) are natural sound, never music. Natural ambience: Powered by Stability AI.
+
 **I can't hear the narration.**
 Check the volume and that the episode is playing (the large button in the player). The narration plays even with the silent switch on. If an episode says its narration is being prepared, it can still be read.
 

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "minSupportedVersion": "1.0.0",
   "latestVersion": "1.0.0",
-  "updateUrlIos": "",
+  "updateUrlIos": "https://apps.apple.com/app/id6833722787",
   "announcement": {
     "enabled": false,
     "id": "",
@@ -38,6 +38,6 @@
   "links": {
     "privacyPolicy": "https://github.com/OuadieZerhouni/app-configs/blob/main/hat-khamsa/PRIVACY.md",
     "support": "https://github.com/OuadieZerhouni/app-configs/blob/main/hat-khamsa/SUPPORT.md",
-    "appStore": ""
+    "appStore": "https://apps.apple.com/app/id6833722787"
   }
 }

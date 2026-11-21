@@ -22,7 +22,7 @@
     "sounds": true
   },
   "reviewPrompt": {
-    "enabled": false
+    "enabled": true
   },
   "ads": {
     "enabled": false,

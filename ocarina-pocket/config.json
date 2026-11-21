@@ -28,6 +28,9 @@
   "ads": {
     "enabled": false
   },
+  "iap": {
+    "enabled": true
+  },
   "featuredSongIds": [
     "jingle_bells",
     "silent_night",

@@ -27,7 +27,10 @@ Check the volume and that the episode is playing (the large button in the player
 That is the "Pause for verses" setting, so the verse can be read. Tap the verse to continue at once, or turn the setting off in Settings. With the screen locked the narration never stops for verses.
 
 **How do I get all the stories?**
-The first three stories, the first episode of every story and all the stories for the young are free. Qindeel Complete is a single purchase that opens the rest, including stories added later. There is no subscription. Bought it on another device? Settings → Restore purchase.
+The first three stories, the first episode of every story and all the stories for the young are free. Qindeel Complete opens the rest, including stories added later: as a monthly subscription, or with one payment that is yours to keep. Bought it on another device? Settings → Restore purchase.
+
+**How do I cancel the subscription?**
+On your iPhone: Settings → your name → Subscriptions → Qindeel → Cancel Subscription. Cancel at least 24 hours before the renewal date; the stories stay open until the end of the month you paid for.
 
 **How do I stop the daily reminder?**
 Settings → Daily reminder.

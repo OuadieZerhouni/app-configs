@@ -16,7 +16,7 @@ Your listening progress, favourites, the days on which you listened, your settin
 If you turn on the daily reminder, the app schedules one notification a day on your device. It is not a push notification: nothing is sent from a server, and no token leaves your phone. You can turn it off in the app's Settings at any time.
 
 ## Purchases
-Qindeel Complete is a one-time purchase handled by Apple. The app only learns from Apple whether this Apple ID owns it. We never see your payment details.
+Qindeel Complete is a monthly subscription or a one-time purchase, both handled by Apple. The app only learns from Apple whether this Apple ID currently has it. We never see your payment details. You manage or cancel the subscription in your Apple ID settings.
 
 ## Network
 When online, the app downloads a small public configuration file from GitHub (`raw.githubusercontent.com`) to receive announcements and settings, and, if more stories are offered as downloads, the story files you choose to download. These requests contain no personal information. GitHub may process standard request data such as your IP address, as described in the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
